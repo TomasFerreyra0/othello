@@ -1,0 +1,1 @@
+En este archivo se comentaran los procesos a seguir para la realizacion del juego Othello
